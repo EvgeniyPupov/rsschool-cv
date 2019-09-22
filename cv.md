@@ -1,15 +1,35 @@
 Evgeniy Pupov
 
-evgeniypupov@mail.ru
+My contacts
 
-My goal is to make high-quality and interesting projects.
+evgeniypupov@mail.ru, telephone number: 8912000000
+
+
+My goal
+
+Make high-quality and interesting projects.
 
 I want to enjoy my work.
 
-Scills. HTML&CSS basic. I use VS CODE.
 
-Experience. HTML&CSS basic cources on htmlacademy.ru.
+Scills. 
 
-Education. Izhevsk state technical University, faculty of instrument making.
+HTML & CSS basic. 
 
-English Basic.
+I use VS CODE.
+
+
+
+Experience. 
+
+HTML&CSS basic cources on htmlacademy.ru
+
+
+Education. 
+
+Izhevsk state technical University, faculty of instrument making.
+
+
+English 
+
+Basic level
